@@ -1,1 +1,1 @@
-# drumkit
+# Simple drum-kit example
